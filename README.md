@@ -22,4 +22,4 @@ Les librairies python *lxml* et *pyhtml2pdf* sont nécessaires.
 
 ## Pistes d'amélioration
 
-Le script sommaire en Python ne sert ici qu'à générer les fichiers. Et le XSL est "rigide". Pour avoir un XSL capable de transformer tous les fichiers XML/EAD possibles, on pourrait créer, via Python, un graphe abstrait à partir du DOM du fichier XML; et à partir de ce modèle, sonder les différents niveaux de l'arborescence, les différents noeuds, éléments et attributs rencontrés pour déterminer automatiquement les boucles XSL nécessaires et ainsi récupérer toutes les données.
+Le script sommaire en Python ne sert ici qu'à générer les fichiers. Et le XSL est "rigide". Pour avoir un XSL capable de transformer tous les fichiers XML/EAD possibles, on pourrait créer, via Python, un graphe abstrait à partir du DOM du fichier XML; et à partir de ce modèle, sonder les différents niveaux de l'arborescence, les différents noeuds, éléments et attributs rencontrés pour déterminer automatiquement les boucles XSL nécessaires. Ainsi, on pourra tailler un schéma de récuperation des données d'un fichier XML/EAD sur mesure.
