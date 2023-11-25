@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href="transformation.xsl"?>
+<!DOCTYPE ead SYSTEM "ead.dtd">
+
+<ead>
+	<eadheader>
+		<eadid>AD39_FR</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Fonds du Front uni des résistants de la Préfecture de Police - Emile Portzer
+                </titleproper>
+            </titlestmt>
+            
+            <!--mention de publication, avec l'éditeur, son adresse et la date-->
+            <publicationstmt>
+                <publisher>CCC MRN</publisher>
+                <date normal="2022-03">Mars 2022</date>  
+            </publicationstmt>
+            
+        </filedesc>
+	</eadheader>
+
+	<archdesc level="fonds">
+		<did>
+			<unitid>
+				85AJ/1/14/FURPP-EPOR
+			</unitid>
+
+			<unitdate normal="1907/2002">
+				1907 - 2002
+			</unitdate>
+
+			<unititle>
+				Fonds du Front uni des résistants de la Préfecture de Police - Emile Portzer
+			</unititle>
+
+			<physdesc>
+				<extent>11,2 ml</extent>
+                <extent>70 cartons</extent>
+			</physdesc>
+			
+
+			<origination>
+				<corpname>FURRP</corpname>
+                <persname>Emile Portzer</persname>
+			</origination>
+		</did>
+		
+		 <accessrestrict>
+           <p>- Carton 47 : Commémorations et manifestations : 1949-1971 et s.d. Un document non
+            communicable (10 novembre 1970) </p>
+            <p>- Carton 50 : Défense des policiers membres du Parti communiste révoqués. Un dossier non
+            communicable (1961-1963 et s.d.)
+            </p>
+        </accessrestrict>
+        <userestrict>   
+            <p>reproduction libre sous réserve des restrictions imposées par les
+                délais légaux ou l'état matériel des documents
+            </p>
+        </userestrict>
+		
+		<bioghist>
+            <p>
+                <corpname>Le Front uni des résistants de la Préfecture de police (déportés, internés, FFI, FFC, FFL, réfractaires
+                et patriotes)</corpname>, abrégé en FURPP, créé le 16 mai 1945, fusionne les groupements de résistance de la
+                Préfecture de Police (Front national, Honneur de la Police, Police et Patrie), et plus généralement
+                tous les résistants et leur famille qui ont participé à la résistance à Paris au sein de la Préfecture de
+                Police
+            </p>
+            <p>
+                Comme beaucoup d'associations d'anciens résistants, le FURPP œuvre pour la mémoire de la
+                résistance des fonctionnaires de police et pour la défense des droits des adhérents et de leur famille.
+                Le 27 mars 1969, Le FURPP et le FACRDIPVGPP forment la Fédération des anciens combattants
+                et résistants de la Préfecture de Police (FURPP - FACRDIPVGPP).
+            </p>
+        </bioghist>
+            
+        <bioghist>
+            <p> <persname>Émile Portzer</persname> (1er septembre 1920, Paris – 9 novembre 2002, Paris), entre en 1942, sans doute sur la
+                consigne du Parti communiste, à la Préfecture de Police en tant que gardien de la paix. Il est un des
+                fondateurs du mouvement de résistance du Front national de la police, et participe en août 1944 à la
+                libération de Paris.
+                En 1952, à la suite de la manifestation contre la venue en France du général américain Ridgway,
+                commandant des forces de l'ONU en Corée, une perquisition au siège du Parti communiste révèle
+                qu’Émile Portzer est à la tête de la cellule communiste de la Préfecture de Police. Il est mis à la
+                retraite d'office, et n'est réintégré qu'en 1981, comme inspecteur divisionnaire.
+                Pendant sa retraite forcée, il anime l'amicale communiste de la police, est membre du bureau du
+                FURPP (archiviste puis secrétaire général), puis président de la FACRPP. 
+                Il est également membre du Syndicat général de la police, et participe en 1971 à la création de la
+                Fédération autonome des syndicats de police.
+                À la suite de la manifestation des Algériens à Paris le 17 octobre 1961, il dénonce anonymement les
+                violences policières en participant avec d'autres policiers à la rédaction d'un tract.
+                Émile Portzer est fait officier de la légion d'honneur en 1994.
+            </p> 
+        </bioghist>
+		
+		<scopecontent>
+            <!-- Présentation du contenu -->
+            <p>Ce fonds rassemble à la fois les archives de l'association FURPP (qui forment la plus grande partie)
+                et les archives d'Emile Portzer, qui fut l'un de ses dirigeants.
+                Les archives de l'association comprennent des documents relatifs à son fonctionnement, et surtout à
+                ses activités. Soulignons notamment l'importance à la fois matérielle et historique des dossiers
+                concernant la reconnaissance des droits de résistance des fonctionnaires de la Préfecture de Police,
+                en particulier la présence de rapports rédigés lors de l'insurrection parisienne d'août 1944, ou
+                immédiatement après (cartons 14 à 44)
+            </p>
+        </scopecontent>
+		
+		<dsc>
+            <c level="subfonds">
+                <did>
+                    <unitid>I</unitid>
+                    <unittitle>Archives de l'association FURPP</unittitle>
+                    <unitdate></unitdate>
+                </did>
+				
+				<c>
+					<did>
+                        <unittitle>Fonctionnement</unittitle>
+                    </did>
+					
+					<c>
+                        <did>
+                            <unitid>1</unitid>
+                            <unitdate normal="1945/1969">1945/1969</unitdate>
+                            <unittitle>Fondation...</unittitle>
+                        </did>
+                    </c>
+                    <c>
+                        <did>
+                            <unitid>2/5</unitid>
+                            <unitdate>1945-1976</unitdate>
+                            <unittitle>Composition Suite...</unittitle>
+                        </did>
+                    </c>
+                    <c>
+                        <did>
+                            <unitid>6-8</unitid>
+                            <unitdate  normal="1945/1974">1945-1974</unitdate>
+                            <unittitle>Administration de l'assoc...</unittitle>
+                        </did>
+                    </c>
+                    <c>
+                        <did>
+                            <unitid>9</unitid>
+                            <unitdate  normal="1950/1969">1950-1969</unitdate>
+                            <unittitle>Administrations des bierns...</unittitle>
+                        </did>
+                    </c>
+				</c>
+					
+				<c>
+                    <did>
+                        <unittitle>Activités</unittitle>
+                    </did>
+                    <c>
+                        <did>
+                            <unitid>9-12</unitid>
+							<unittitle>Correspondance</unittitle>
+                            <unitdate normal="1944-1957">1944-1957</unitdate>
+                            <unitdate normal="1960-1961">1960-1961</unitdate>
+                            <unitdate normal="1907-2007">sans date</unitdate>
+                         
+                        </did>
+                    </c>
+                    <c>
+                        <did>
+                            <unitid/>
+                            <unitdate/>
+                            <unittitle>qsdqsdsqd</unittitle>
+                        </did>
+                    </c>
+                    <c>
+                        <did>
+                            <unitid/>
+                            <unitdate/>
+                            <unittitle>axfcddqsdsqd</unittitle>
+                        </did>
+                    </c>
+                    <c>
+                        <did>
+                            <unitid/>
+                            <unitdate/>
+                            <unittitle>afcddsdqsdsqd</unittitle>
+                        </did>
+                    </c>
+                    <c>
+                        <did>
+                            <unitid/>
+                            <unitdate/>
+                            <unittitle>adxadxd</unittitle>
+                        </did>
+                    </c>
+                    <c>
+                        <did>
+                            <unitid/>
+                            <unitdate/>
+                            <unittitle/>
+                        </did>
+                    </c>
+                </c>
+                
+                <c>
+                    <did>
+                        <unittitle>Documentation</unittitle>
+                    </did>
+                    <c>
+                        <did>
+                            <unitid/>
+                            <unitdate/>
+                            <unittitle/>
+                        </did>
+                    </c>
+                </c>
+				
+			</c>
+			
+			<c level="subfonds">
+              <did>
+                  <unitid>II</unitid>
+                  <unittitle>Emile Portzer</unittitle>
+                  <unitdate></unitdate>
+              </did>
+			</c>
+		</dsc>
+	</archdesc>
+</ead>

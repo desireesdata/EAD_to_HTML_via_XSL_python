@@ -1,0 +1,26 @@
+section{
+	width: 40em;
+	margin: auto;
+	text-align: justify;
+}
+
+header{
+	text-align: center;
+	font-size: 0.9em;
+	margin: 1em;
+}
+
+#ead_header{
+	font-size: 0.8em;
+	color: gray;
+}
+
+#ead_header span.ead_header_element:after{
+	content: "/ ";
+}
+
+#infos_requises_isadg{
+background: lightgray;
+padding: 1em;
+margin: 1em;
+}
